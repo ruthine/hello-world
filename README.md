@@ -1,2 +1,3 @@
 # hello-world
 my hello world rep
+Finally getting to grips with Gits...
